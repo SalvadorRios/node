@@ -1,0 +1,10 @@
+{
+  "name": "mi_app",
+  "description": "Un paquete etc etc",
+  "author": "maginkgo",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.7.1"
+  },
+  "devDependencies": {}
+}
